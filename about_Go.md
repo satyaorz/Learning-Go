@@ -42,3 +42,6 @@ However, constants can be computed as long as the computation can happen at comp
 
 // i hope ill revisit this soon
 
+my last commit got delete wtf, i hate this college internet vro,
+- last edit was about,  runes, functions?
+
